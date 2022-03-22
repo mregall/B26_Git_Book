@@ -1,5 +1,7 @@
 
-Start the book.
+Start the book!
+
+We're trying to share our code on GitHub, but nobody gits it.
 
 Wow, are these real questions?
 
