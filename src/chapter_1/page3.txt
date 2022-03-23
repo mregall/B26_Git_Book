@@ -6,4 +6,6 @@ We could have done this in 30 minutes, but oh well.
 
 When my file is not committed or anything yet, its un-versioned.
 
-To version it, click the green checkmark.
+To version it and commit, click the green checkmark.
+
+To push it, hit the green out of the park arrow.
